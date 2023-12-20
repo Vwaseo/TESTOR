@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https:bradleysteinmedia.netlify.app/sitemap.xml
